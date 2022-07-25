@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Wilmar!
-- Sou estudante Inatel, Hoje estou me focando em ser um desenvolvedor Mobile Flutter 😄.
+- Aluno do 4° ano de Eng Computação.
+- Desenvolvedor React Native Full Stack.
+- Objetivo de Dominar React Navite e Flutter.
 
  <a href="https://www.linkedin.com/in/wilmarvitor/"  target="_blank" >
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" />
