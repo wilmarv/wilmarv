@@ -3,16 +3,27 @@
 - Desenvolvedor React Native Full Stack.
 - Objetivo de Dominar React Navite e Flutter.
 
- <a href="https://www.linkedin.com/in/wilmarvitor/"  target="_blank" >
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" />
-</a>
-<a href="https://www.urionlinejudge.com.br/judge/pt/users/statistics/147462"  target="_blank" >
-  <img src="https://i.pinimg.com/originals/2c/66/de/2c66decfe536a1b4dd0f5eccba92cb85.png" height="30px" margin-left="7px"/>
-</a>
- </br>
+<div align="center">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilmarv&layout=compact&langs_count=7&theme=dracula"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilmarv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wilmarv&show_icons=true&theme=radical)
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilmarv&layout=compact&theme=radical)](https://github.com/wilmarv/github-readme-stats)
-
+<div style="display: inline_block"><br>
+		<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+		<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+		<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+		<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+		<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+</div>
   
+  ##
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/wilmarvitor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/wilmarv/wilmarv/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
