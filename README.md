@@ -24,6 +24,6 @@
 <div> 
   <a href="https://www.linkedin.com/in/wilmarvitor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/wilmarv/wilmarv/blob/main/.github/workflows/cobrinha.yml)
+  ![Snake animation](https://github.com/wilmarv/wilmarv/blob/main/.github/workflows/snakeAnimation.gif)
  
 </div>
