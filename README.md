@@ -1,8 +1,12 @@
-### Olá! Eu sou o Wilmar!
-- Aluno do 4° ano de Eng Computação.
+### Olá! Eu sou o Wilmar! <img align="right"  height="150" style="border-radius:50px;" src="http://24.media.tumblr.com/d376c4577d3d45791d6ef72f10a26e2f/tumblr_mr3x0deqi41rhul80o1_500.gif">
+- Aluno do 4° ano de Eng Computação.                   
 - Desenvolvedor React Native Full Stack.
 - Objetivo de Dominar React Navite e Flutter.
 
+
+##
+
+<br/>
 <div align="center">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilmarv&layout=compact&langs_count=7&theme=dracula"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilmarv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -11,12 +15,12 @@
 <br/>
 
 <div style="display: inline_block"><br>
-		<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-		<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-		<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-		<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-		<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+	<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+	<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+	<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+	<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  	<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+	<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 </div>
   
   ##
