@@ -1,4 +1,5 @@
-### Olá! Eu sou o Wilmar! <br/><img align="right"  height="150" style="border-radius:50px;" src="http://24.media.tumblr.com/d376c4577d3d45791d6ef72f10a26e2f/tumblr_mr3x0deqi41rhul80o1_500.gif"><br/>
+### Olá! Eu sou o Wilmar! <img align="right"  height="150" style="border-radius:50px;" src="http://24.media.tumblr.com/d376c4577d3d45791d6ef72f10a26e2f/tumblr_mr3x0deqi41rhul80o1_500.gif">
+
 - Aluno do 4° ano de Eng Computação.                   
 - Desenvolvedor React Native Full Stack.
 - Objetivo de Dominar React Navite e Flutter.
