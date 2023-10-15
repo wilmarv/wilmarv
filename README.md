@@ -1,14 +1,13 @@
 ### Olá! Eu sou o Wilmar! <img align="right"  height="145" style="border-radius:50px;" src="http://24.media.tumblr.com/d376c4577d3d45791d6ef72f10a26e2f/tumblr_mr3x0deqi41rhul80o1_500.gif"> <br/>
 
-- Aluno do 4° ano de Eng Computação.                   
+- Aluno do 5° ano de Eng Computação.                   
 - Desenvolvedor React Native Full Stack.
 - Objetivo de Dominar React Navite e Flutter.
 
 ##
 
-<div align="center">
+<div align="left">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilmarv&layout=compact&langs_count=8&theme=dracula"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilmarv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&langs_count=8"/>
 </div>
 
 <br/>
